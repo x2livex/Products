@@ -4,6 +4,11 @@
             "label": "7 วัน",
             "description": "ใช้งานได้ 7 วัน",
             "value": "1"
+        },
+        {
+            "label": "30 วัน",
+            "description": "ใช้งานได้ 30 วัน",
+            "value": "1"
         }
     ]
 }
